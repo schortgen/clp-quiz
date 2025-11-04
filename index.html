@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CLP Quiz</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <style>
+      @media print {
+        /* Hide everything by default */
+        body * {
+          visibility: hidden;
+        }
+        /* Then, show the printable section and its children */
+        .printable-section, .printable-section * {
+          visibility: visible;
+        }
+        /* Position the printable section to fill the page */
+        .printable-section {
+          position: absolute;
+          left: 0;
+          top: 0;
+          width: 100%;
+          padding: 1rem;
+          box-sizing: border-box;
+        }
+        /* Override dark-mode styles for readability */
+        .printable-section * {
+            color: black !important;
+            background: white !important;
+        }
+        /* Ensure the correct answer remains bold */
+        .printable-section .font-bold {
+            font-weight: bold !important;
+        }
+        /* Explicitly hide elements marked as non-printable */
+        .no-print {
+            display: none !important;
+        }
+      }
+    </style>
+<link rel="stylesheet" href="/index.css">
+    <script type="importmap">
+{
+  "imports": {
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.28.0"
+  }
+}
+</script>
+  <script type="module" crossorigin src="/assets/index-C4vy9Izq.js"></script>
+</head>
+  <body class="bg-slate-900 text-white">
+    <div id="root"></div>
+  </body>
+</html>
