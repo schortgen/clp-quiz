@@ -1,0 +1,209 @@
+Q\ What do shipping papers for hazardous materials describe?
+O\ The origin, destination, and shipping route
+O\ The proper handling, storage, and emergency procedures
+O\ Both of the above
+A\ Both of the above
+E\ Shipping papers provide critical information for transportation professionals and first responders, including what the material is, its hazards, and how to respond to an emergency.
+
+Q\ Where must shipping papers be kept in a vehicle carrying hazardous materials?
+O\ In the glove compartment
+O\ In a pouch on the driver's door or on the driver's seat
+O\ Locked in the trailer
+A\ In a pouch on the driver's door or on the driver's seat
+E\ They must be within immediate reach of the driver while restrained by a seatbelt and readily visible to anyone entering the cab in an emergency.
+
+Q\ What are placards?
+O\ Diamond-shaped signs placed on the outside of a vehicle to identify the hazard class
+O\ The shipping papers for a load
+O\ Special permits for hauling hazmat
+A\ Diamond-shaped signs placed on the outside of a vehicle to identify the hazard class
+E\ Placards provide a visual warning to the public and emergency responders about the type of hazardous material being transported.
+
+Q\ How many sides of a vehicle must be placarded?
+O\ Two (front and back)
+O\ Two (both sides)
+O\ Four (front, back, and both sides)
+A\ Four (front, back, and both sides)
+E\ Placards must be visible from all four directions.
+
+Q\ What is a "Hazard Class"?
+O\ A category of hazardous material based on its specific risks
+O\ The level of danger a material poses
+O\ The type of training a driver needs
+A\ A category of hazardous material based on its specific risks
+E\ Materials are grouped into hazard classes (e.g., Class 1: Explosives, Class 2: Gases, Class 3: Flammable Liquids) based on their primary danger.
+
+Q\ Who is responsible for providing the placards for a hazardous materials shipment?
+O\ The driver
+O\ The shipper
+O\ The carrier
+A\ The shipper
+E\ The shipper must provide the carrier with the appropriate placards for the materials being shipped.
+
+Q\ The hazard class of a material is found on the:
+O\ Shipping papers and the package label
+O\ Driver's license
+O\ Vehicle registration
+A\ Shipping papers and the package label
+E\ This information is critical and must be clearly listed on the shipping documents.
+
+Q\ If you are carrying Division 1.1, 1.2, or 1.3 explosives, you must not:
+O\ Drive through tunnels
+O\ Park within 5 feet of the traveled portion of the road
+O\ Both of the above
+A\ Both of the above
+E\ There are strict routing and parking regulations for high-risk explosives to protect the public.
+
+Q\ What is the purpose of the "Emergency Response Guidebook" (ERG)?
+O\ It helps drivers identify hazardous materials and protect themselves and the public during an incident
+O\ It provides driving directions for hazmat routes
+O\ It lists all companies that ship hazmat
+A\ It helps drivers identify hazardous materials and protect themselves and the public during an incident
+E\ The ERG is a first responder's go-to resource for quickly identifying hazards and initial actions for a hazmat spill or fire.
+
+Q\ A container of hazardous material must have:
+O\ A label indicating its contents and hazard class
+O\ The shipper's name and address
+O\ Both of the above
+A\ Both of the above
+E\ Proper labeling and marking of individual packages is required for safe handling and transportation.
+
+Q\ If you discover a leak in your hazardous materials shipment, you should:
+O\ Identify the material and report the situation to your carrier and emergency services
+O\ Continue driving to your destination to avoid a public incident
+O\ Try to patch the leak yourself
+A\ Identify the material and report the situation to your carrier and emergency services
+E\ In the event of a leak, your first priority is to stop in a safe place, identify the material from your shipping papers, and notify the proper authorities.
+
+Q\ When loading hazardous materials, you must:
+O\ Ensure the packages are properly secured and braced
+O\ Not load leaking packages
+O\ Both of the above
+A\ Both of the above
+E\ The driver is responsible for inspecting the load to ensure it is safe for transport.
+
+Q\ What does an "X" in the HM column of a shipping paper mean?
+O\ The shipment is extra hazardous
+O\ The shipment is for export only
+O\ The shipment is a hazardous material
+A\ The shipment is a hazardous material
+E\ An "X" (or "RQ" for Reportable Quantity) before the shipping name indicates that the entry is a hazardous material.
+
+Q\ You must have a hazardous materials endorsement on your CDL to transport:
+O\ Any quantity of hazardous material
+O\ Any hazardous material that requires placards
+O\ Only explosive materials
+A\ Any hazardous material that requires placards
+E\ The HME is required when the vehicle must be placarded for hazardous materials.
+
+Q\ When parking a placarded vehicle, it must be:
+O\ Within sight of the driver at all times
+O\ In a specially designated secure parking area
+O\ It depends on the type of material
+A\ It depends on the type of material
+E\ Parking rules vary. High-risk materials like explosives have very strict attendance and surveillance rules, while others are less restrictive.
+
+Q\ Smoking is prohibited within ___ feet of a placarded vehicle carrying Class 1, Class 2.1, Class 3, or Class 4 materials.
+O\ 10 feet
+O\ 25 feet
+O\ 50 feet
+A\ 25 feet
+E\ There must be no smoking or open flames near vehicles carrying explosives, flammable gases, or flammable liquids.
+
+Q\ The shipper is responsible for:
+O\ Properly packaging, marking, and labeling the material
+O\ Providing the shipping papers and emergency response information
+O\ Both of the above
+A\ Both of the above
+E\ The shipper has the primary responsibility for preparing the hazardous material for shipment according to regulations.
+
+Q\ What is a "reportable quantity" (RQ)?
+O\ The amount of material that can be shipped in one container
+O\ The amount of a hazardous substance that, if released, must be reported to the appropriate authorities
+O\ The total quantity of hazmat on the vehicle
+A\ The amount of a hazardous substance that, if released, must be reported to the appropriate authorities
+E\ If a spill exceeds the RQ for that substance, it is a reportable incident.
+
+Q\ When fueling a placarded vehicle, you should:
+O\ Have the shipping papers in your hand
+O\ Turn off the engine
+O\ Ensure someone is attending the nozzle at all times
+A\ Ensure someone is attending the nozzle at all times
+E\ Someone must always be at the nozzle to control the flow of fuel and respond to any spills.
+
+Q\ Which hazard class uses a placard that is red and white?
+O\ Class 3: Flammable Liquids
+O\ Class 4: Flammable Solids
+O\ Class 5: Oxidizers
+A\ Class 4: Flammable Solids
+E\ The Flammable Solid placard has vertical red and white stripes.
+
+Q\ You should never transport a "Poison" or "Poison Gas" material in the same vehicle as:
+O\ Food or animal feed
+O\ Flammable liquids
+O\ Explosives
+A\ Food or animal feed
+E\ There are strict rules against loading toxic materials with any type of food products to prevent contamination.
+
+Q\ To obtain a hazardous materials endorsement, you must pass a written test and a:
+O\ Special driving test
+O\ Physical exam
+O\ Transportation Security Administration (TSA) background check
+A\ Transportation Security Administration (TSA) background check
+E\ A security threat assessment is required to ensure that drivers hauling hazmat do not pose a security risk.
+
+Q\ The "ID Number" on the shipping papers and placards is used to:
+O\ Identify the specific hazardous material
+O\ Track the shipment for billing purposes
+O\ Identify the driver
+A\ Identify the specific hazardous material
+E\ The four-digit UN/NA identification number allows first responders to look up the exact material in the Emergency Response Guidebook.
+
+Q\ When approaching a railroad crossing while carrying hazardous materials, you must:
+O\ Stop before the tracks, look both ways, and listen
+O\ Slow down but do not stop unless a train is coming
+O\ Cross the tracks as quickly as possible
+A\ Stop before the tracks, look both ways, and listen
+E\ Most placarded vehicles are required to stop at all railroad crossings, regardless of whether a train is approaching.
+
+Q\ The "compatibility table" in the regulations shows:
+O\ Which materials can be loaded together in the same vehicle
+O\ Which placards are needed for which materials
+O\ The proper shipping names for all materials
+A\ Which materials can be loaded together in the same vehicle
+E\ Some hazardous materials can react dangerously if mixed, so the segregation and compatibility tables must be followed to prevent this.
+
+Q\ What does "inhalation hazard" mean?
+O\ The material is flammable when inhaled
+O\ The gas or vapor can cause serious injury or death if breathed in
+O\ The material can damage the vehicle's air intake
+A\ The gas or vapor can cause serious injury or death if breathed in
+E\ These materials are particularly dangerous because they can be toxic even without direct contact.
+
+Q\ A vehicle placarded for hazardous materials must have a fire extinguisher with a minimum rating of:
+O\ 5 B:C
+O\ 10 B:C
+O\ 20 B:C
+A\ 10 B:C
+E\ Placarded vehicles must carry a fire extinguisher with a UL rating of 10 B:C or more.
+
+Q\ The "shipping name" of a hazardous material must be:
+O\ The brand name of the product
+O\ The specific name listed in the hazardous materials regulations
+O\ A generic description of the material
+A\ The specific name listed in the hazardous materials regulations
+E\ Only the proper shipping name from the regulations is acceptable on shipping papers.
+
+Q\ If you are carrying hazardous materials, your route plan should:
+O\ Take the shortest route possible
+O\ Avoid tunnels, heavy traffic, and populated areas whenever possible
+O\ Use only interstate highways
+A\ Avoid tunnels, heavy traffic, and populated areas whenever possible
+E\ Safe routing is a key part of transporting hazardous materials.
+
+Q\ Who is responsible for checking that the placards on a vehicle are correct?
+O\ The shipper
+O\ The carrier
+O\ The driver
+A\ The driver
+E\ While the shipper provides the placards, the driver is ultimately responsible for ensuring the vehicle is correctly placarded before driving it.

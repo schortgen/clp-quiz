@@ -1,0 +1,139 @@
+Q\ When pulling more than one trailer, which trailer should be first behind the tractor?
+O\ The heaviest trailer
+O\ The lightest trailer
+O\ The longest trailer
+A\ The heaviest trailer
+E\ Placing the heaviest trailer in the lead position provides the most stability and helps prevent the "crack-the-whip" effect.
+
+Q\ What is a converter dolly?
+O\ A tool for converting tire sizes
+O\ A coupling device used to connect a semi-trailer to another trailer
+O\ A type of hand truck
+A\ A coupling device used to connect a semi-trailer to another trailer
+E\ A converter dolly has a fifth wheel, axles, and an air supply system, allowing a second or third trailer to be attached.
+
+Q\ You are driving a 100-foot vehicle with double trailers at 50 mph. The road is dry. You need at least ___ seconds of following distance.
+O\ 8
+O\ 10
+O\ 11
+A\ 11
+E\ The formula is 1 second per 10 feet of vehicle length, plus 1 extra second for speeds over 40 mph. 100 feet = 10 seconds, +1 second for speed = 11 seconds.
+
+Q\ What is the "crack-the-whip" effect most likely to cause?
+O\ Engine failure
+O\ A rollover of the rear trailer
+O\ Brake fade
+A\ A rollover of the rear trailer
+E\ The rearward amplification of a sudden steering movement can cause the last trailer to swing violently and roll over.
+
+Q\ When inspecting a set of doubles, you should check that:
+O\ The shut-off valves on the rear of the trailers are open
+O\ The converter dolly air tank is drained
+O\ Both of the above
+A\ Both of the above
+E\ A full inspection includes checking all air lines, valves, and draining all air tanks, including the one on the dolly.
+
+Q\ To uncouple the rear trailer in a set of doubles, you should first:
+O\ Lower the landing gear on the rear trailer
+O\ Disconnect the air lines to the rear trailer
+O\ Position the rig in a straight line on level ground
+A\ Position the rig in a straight line on level ground
+E\ Proper positioning is the first and most critical step for safe uncoupling.
+
+Q\ When are you most likely to lose traction when pulling doubles?
+O\ On a straight, flat road
+O\ When making a quick lane change
+O\ When starting from a stop
+A\ When making a quick lane change
+E\ Sudden or sharp movements can easily lead to skids or rollovers due to the crack-the-whip effect.
+
+Q\ Before you can pull double or triple trailers, you must:
+O\ Have a special endorsement on your CDL
+O\ Have at least 5 years of driving experience
+O\ Pass a special physical exam
+A\ Have a special endorsement on your CDL
+E\ The "T" endorsement is required on a CDL to legally operate a vehicle pulling double or triple trailers.
+
+Q\ When coupling a converter dolly to a trailer, you should:
+O\ Make sure the trailer height is slightly lower than the dolly's fifth wheel
+O\ Release the dolly brake and roll it under the trailer by hand
+O\ Both of the above
+A\ Both of the above
+E\ The trailer should be slightly lower so the dolly can roll under, and it's often necessary to position the dolly manually.
+
+Q\ The shut-off valves on the rear of the front trailer should be:
+O\ Open
+O\ Closed
+O\ It does not matter
+A\ Open
+E\ The valves must be open to supply air to the brakes on the rear trailer(s).
+
+Q\ The shut-off valves on the very last trailer should be:
+O\ Open
+O\ Closed
+O\ Removed
+A\ Closed
+E\ Closing the valves on the last trailer prevents air from escaping the system.
+
+Q\ How do you check that the trailer brakes are working on a set of doubles?
+O\ Apply the trailer hand brake and listen for the brakes to come on
+O\ Gently pull forward with the hand brake applied
+O\ Both of the above
+A\ Both of the above
+E\ You should both listen for the sound of the air applying the brakes and perform a gentle tug test.
+
+Q\ Driving a triple trailer combination is:
+O\ Allowed in all states
+O\ Not allowed in any state
+O\ Only allowed in certain states and on specific highways
+A\ Only allowed in certain states and on specific highways
+E\ The legality of triple trailers varies by state and is often restricted to designated routes.
+
+Q\ What is the best way to prevent skids with double and triple trailers?
+O\ Steer gently and smoothly
+O\ Brake hard in turns
+O\ Drive faster than the flow of traffic
+A\ Steer gently and smoothly
+E\ Smooth, gradual steering is essential to prevent rearward amplification and maintain stability.
+
+Q\ When turning with long combination vehicles, you should:
+O\ Turn as you would with a single trailer
+O\ Swing out as wide as possible
+O\ Be aware of off-tracking and the path of the last trailer
+A\ Be aware of off-tracking and the path of the last trailer
+E\ You must have a complete picture of where all your trailers are to safely navigate turns.
+
+Q\ If you have to make a sudden move to avoid a hazard, you should know that:
+O\ The rear trailer will move the most
+O\ The front trailer will move the most
+O\ All trailers will move equally
+A\ The rear trailer will move the most
+E\ The crack-the-whip effect means the last trailer will swing out much more than the tractor or the first trailer.
+
+Q\ What is a "pintle hook"?
+O\ A type of fifth wheel
+O\ A coupling device used to connect a converter dolly to a trailer
+O\ A tool for inspecting tires
+A\ A coupling device used to connect a converter dolly to a trailer
+E\ A pintle hook on the rear of a trailer is used to tow a converter dolly for the next trailer.
+
+Q\ When inspecting the pintle hook connection, you should ensure that:
+O\ The safety latch is in place
+O\ It is properly greased
+O\ Both of the above
+A\ Both of the above
+E\ The pintle hook must be securely latched and properly lubricated for safe operation.
+
+Q\ What is the main danger of pulling a light trailer behind a heavy one?
+O\ The light trailer is more likely to flip over
+O\ It increases the risk of the "crack-the-whip" effect
+O\ It puts too much strain on the tractor
+A\ It increases the risk of the "crack-the-whip" effect
+E\ A light rear trailer is more susceptible to being whipped around by the heavier lead trailer, increasing the risk of a rollover.
+
+Q\ When pulling doubles or triples, you should look:
+O\ Much farther ahead than you would with a single trailer
+O\ Mostly in your side mirrors
+O\ Directly in front of your truck
+A\ Much farther ahead than you would with a single trailer
+E\ Because it takes longer to stop and maneuver, you need to see hazards much earlier to have enough time to react safely.

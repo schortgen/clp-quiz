@@ -1,0 +1,5 @@
+{
+  "name": "CLP Quiz",
+  "description": "An interactive quiz application to help students study for their CLP (Commercial Learner's Permit) test. Users can select a test, answer questions, and review their score with explanations for incorrect answers.",
+  "requestFramePermissions": []
+}

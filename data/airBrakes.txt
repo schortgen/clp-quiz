@@ -1,0 +1,714 @@
+Q\\ Oil and water usually collect in compressed air tanks. If you do not have an automatic tank drain, when should you drain the air tanks?
+O\\ After every work day.
+O\\ After every four hours of service.
+O\\ Once a week.
+A\\ After every work day.
+E\\ If your vehicle does not have automatic air tank drains, drain your air tanks at the end of each working day to remove moisture and oil. Otherwise, the brakes could fail.
+
+Q\\ What is the S-cam used for?
+O\\ To apply the brakes.
+O\\ To release the brakes.
+O\\ To test the slack adjusters.
+A\\ To apply the brakes.
+E\\ When you push the brake pedal, air is let into each brake chamber. Air pressure pushes the rod out, moving the slack adjuster, thus twisting the brake camshaft. This turns the s-cam forcing the brake shoes away from one another and presses them against the inside of the brake drum.
+
+Q\\ Which of the following makes the total stopping distance for air brakes longer than that for hydraulic brakes?
+O\\ Brake lag distance.
+O\\ Perception distance.
+O\\ Reaction distance.
+A\\ Brake lag distance.
+E\\ With air brakes there is an added delay or Brake Lag. This is the time required for the brakes to work after the brake pedal is pushed. With hydraulic brake, the brakes work instantly. With air brakes it takes a little time, one half second or more, for the air to flow through the lines to the brakes.
+
+Q\\ The brake system that applies and releases the brakes when the driver uses the brake pedal is the:
+O\\ Service brake system.
+O\\ Emergency brake system.
+O\\ Parking brake system.
+A\\ Service brake system.
+E\\ The service brake system applies and releases the brakes when you use the brake pedal during normal driving.
+
+Q\\ To make an emergency stop with air brakes, using the stab braking method, you should:
+O\\ Brake as hard as you can, get off the brakes when the wheels lock, get back on the brakes when the wheels start rolling again.
+O\\ Pump the brake pedal rapidly and lightly.
+O\\ Brake hard until the wheels lock, and then get off the brakes for as much time as the wheels were locked.
+A\\ Brake as hard as you can, get off the brakes when the wheels lock, get back on the brakes when the wheels start rolling again.
+E\\ Stab braking means that you: apply your brakes all the way, and release brakes when wheels lock up. As soon as the wheels start rolling, apply the brakes fully again.
+
+Q\\ Brake lag distance at 55 mph is _____ feet?
+O\\ 32
+O\\ 50
+O\\ 23
+A\\ 32
+E\\ The air brake lag distance at 55 mph on dry pavement adds about 32 feet.
+
+Q\\ If your vehicle has an alcohol evaporator, it is there to:
+O\\ Reduce the risk of ice in air brake valves in cold weather.
+O\\ Rid the wet tank of alcohol that condenses and sits at the bottom.
+O\\ Eliminate the need for daily tank draining.
+A\\ Reduce the risk of ice in air brake valves in cold weather. 
+E\\ Some air brake systems have an alcohol evaporator to put alcohol into the air system. This helps to reduce the risk of ice in air brake valves and other parts during cold weather. Daily air tank drainage is still needed to get rid of water and oil.
+
+Q\\ What can legally hold a parking or emergency brake in position for a truck, truck tractor or bus?
+O\\ Spring pressure
+O\\ Fluid pressure
+O\\ Air pressure
+A\\ Spring pressure
+E\\ All trucks, truck tractors, and buses must be equipped with emergency brakes and parking brakes. They must be held on by mechanical force because air pressure can eventually leak away. Spring brakes are usually used to meet these needs.
+
+Q\\ The braking power of the spring brakes:
+O\\ Depends on the adjustment of the service brakes.
+O\\ Increases when the service brakes are hot.
+O\\ Is not affected by the condition of the service brakes.
+A\\ Depends on the adjustment of the service brakes.
+E\\ The braking power of spring brakes depends on the brakes being in adjustment. If the brakes are not adjusted properly, neither the regular brakes nor the emergency/parking brakes will work right.
+
+Q\\ Which of the following should you do before leaving your vehicle unattended?
+O\\ Set the parking brakes.
+O\\ Remove the keys.
+O\\ Chock the wheels.
+O\\ Do all of the above.
+A\\ Do all of the above.
+E\\ Never leave your vehicle unattended without applying the parking brakes or chocking the wheels. Your vehicle might roll away and cause injury and damage
+
+Q\\ Under which conditions are front wheel brakes good?
+O\\ All weather conditions
+O\\ Wet or icy conditions only
+O\\ Good weather only
+O\\ None
+A\\ All weather conditions
+E\\ Front wheel brakes have been shown to be ideal under all weather and driving conditions. Front wheel braking is unlikely to cause a skid even on icy roads.
+
+Q\\ If the air tanks are not drained,
+O\\ your brakes may fail because of water freezing.
+O\\ your transmission fluid may drain out.
+O\\ you will drive too quickly.
+O\\ your left side brake will cease to operate.
+A\\ your brakes may fail because of water freezing.
+E\\ Compressed air usually has some water and some compressor oil in it, which is bad for the air brake system. For example, the water can freeze in cold weather and cause brake failure.
+
+Q\\ An antilock braking system (ABS)
+O\\ activates when your wheels are about to lock up.
+O\\ increases your normal braking capability.
+O\\ decreases your normal braking capability.
+O\\ shortens your stopping distance.
+A\\ activates when your wheels are about to lock up.
+E\\ ABS is a computerized system that keeps your wheels from locking up during hard brake applications.
+
+Q\\ Which of the following can cause brakes to fade or fail?
+O\\ Excessive use of the service brakes
+O\\ Not relying enough on engine braking
+O\\ Brakes being out of adjustment
+O\\ All of the above
+A\\ All of the above
+E\\ Brakes can fade or fail from excessive heat caused by using them too much and not relying on the engine braking effect. Brake fade is also affected by adjustment.
+
+Q\\ What is the best way to test if your vehicle's spring brakes come on automatically?
+O\\ Continue to step on and off the brake pedal until the manufacturer's low psi specification is met for spring brakes to deploy.
+O\\ On single vehicles, continue to step on and off the brake pedal until the parking brake valve pops out.
+O\\ On tractor-trailer vehicles, continue to step on and off the brake pedal until the parking brake valve pops out.
+O\\ All of the above are correct.
+A\\ All of the above are correct.
+E\\ On both tractor-trailers and single vehicles, to test whether the spring brakes will come on automatically, use the same method you use for testing the low air pressure warning signal: Step on and off the brake pedal, this time until you reach an even lower psi reading and the parking brake valve closes or pops out.
+
+Q\\ If your vehicle has a properly functioning dual air brake system and minimum-sized air tanks, the air pressure should build from 85 to 100 psi within ____ seconds.
+O\\ 45
+O\\ 60
+O\\ 20
+A\\ 45
+E\\ When the engine is at operating rpms, the pressure should build from 85 to 100 psi within 45 seconds in dual air systems. If the vehicle has larger than minimum air tanks, the buildup time can be longer and still be safe.
+
+Q\\ The air compressor will stop pumping air into the air tanks at ____ psi.
+O\\ 125
+O\\ 150
+O\\ 100
+A\\ 125
+E\\ The governor controls when the air compressor will pump air into the air storage tanks. When air tank pressure rises to the "cut-out" level around 125 psi, the governor stops the compressor from pumping air. When the tank pressure falls to the "cut-in" pressure around 100 psi, the governor allows the compressor to start pumping again.
+
+Q\\ Excessive heat caused by overuse of the service brakes can cause
+O\\ the brakes to fade.
+O\\ the modulating control valve to wear out.
+O\\ the brake linings to split.
+A\\ the brakes to fade.
+E\\ Brakes can fade or fail from excessive heat caused by using them too much and not relying on the engine braking effect.
+
+Q\\ Excessive use of the service brakes may result in overheating, which can lead to
+O\\ expansion of the brake drums.
+O\\ improper adjustment of the S-cams.
+O\\ increased contact between the brake drums and the brake linings.
+A\\ expansion of the brake drums.
+E\\ Brake fade results from excessive heat causing chemical changes in the brake lining, which reduce friction, and also causing expansion of the brake drums.
+
+Q\\ A typical air brake system is fully charged at
+O\\ 125 psi.
+O\\ 150 psi.
+O\\ 75 psi.
+A\\ 125 psi.
+E\\ Pumping by the air compressor should start at about 100 psi and stop at about 125 psi.
+
+Q\\ During normal driving, spring brakes are usually held back by
+O\\ air pressure.
+O\\ bolts and braces.
+O\\ springs.
+A\\ air pressure.
+E\\ Parking or emergency brakes must be held on by mechanical force because air pressure can eventually leak away. Spring brakes are usually used to meet these needs. When driving, powerful springs are held back by air pressure.
+
+Q\\ During your final air brake check, if the air pressure does not build up fast enough,
+O\\ the air pressure may drop too low during driving.
+O\\ have the problem fixed after your trip is over.
+O\\ the alcohol evaporator may be low.
+A\\ the air pressure may drop too low during driving.
+E\\ If air pressure does not build up fast enough, your pressure may drop too low during driving, requiring an emergency stop. Don't drive until you get the problem fixed.
+
+Q\\ To test the static air leakage rate, you should
+O\\ turn off the engine, release the parking brake, and let the system settle.
+O\\ charge the air system and leave the engine running.
+O\\ leave the engine running and release the parking brake.
+A\\ turn off the engine, release the parking brake, and let the system settle.
+E\\ With a fully-charged air system (typically 125 psi), turn off the engine, release the parking brake (push in); and time the air pressure drop.
+
+Q\\ Air brakes use _________ to make the brakes work.
+O\\ compressed air
+O\\ hydraulic fluid
+O\\ natural gas
+A\\ compressed air
+E\\ Air brakes use compressed air to make the brakes work. Air brakes are a good and safe way of stopping large and heavy vehicles, but the brakes must be well maintained and used properly.
+
+Q\\ When you press the brake pedal,
+O\\ compressed air enters the brake chambers.
+O\\ compressed air is released from the air tanks.
+O\\ compressed air is released from the brake chambers.
+A\\ compressed air enters the brake chambers.
+E\\ When you push the brake pedal, air is let into each brake chamber.
+
+Q\\ The air compressor governor controls:
+O\\ The speed of the air compressor.
+O\\ Air pressure applied to the brakes.
+O\\ When air is pumped into the air tanks.
+A\\ When air is pumped into the air tanks.
+E\\ The governor controls when the air compressor will pump air into the air storage tanks. When air tank pressure rises to the "cut-out" level around 125 psi, the governor stops the compressor from pumping air. When the tank pressure falls to the "cut-in" pressure around 100 psi, the governor allows the compressor to start pumping again.
+
+Q\\ Of the choices below, the first thing to do when a low air pressure warning comes on is:
+O\\ Stop and safely park as soon as possible.
+O\\ Up shift.
+O\\ Adjust the brake pedal for more travel.
+A\\ Stop and safely park as soon as possible.
+E\\ When the low air pressure warning light and buzzer first come on, bring the vehicle to a safe stop right away, while you can still control the brakes.
+
+Q\\ Air brake equipped vehicles must have:
+O\\ An air use gauge.
+O\\ A supply pressure gauge.
+O\\ At least two brake heaters.
+A\\ A supply pressure gauge.
+E\\ All vehicles with air brakes have a pressure gauge connected to the air tank. If the vehicle has a dual air brake system, there will be a gauge for each half of the system.
+
+Q\\ Modern air brake systems combines three different systems. They are the service brakes, the parking brakes and the:
+O\\ Emergency brakes.
+O\\ Foot brakes.
+O\\ S-cam brakes.
+A\\ Emergency brakes.
+E\\ Air brakes are really three different braking systems: service brake, parking brake, and emergency brake.
+
+Q\\ If you must make an emergency stop, you should brake so that you:
+O\\ Can steer hard while braking hard.
+O\\ Use the full power of the brakes and lock them.
+O\\ Stay in a straight line and can steer.
+A\\ Stay in a straight line and can steer.
+E\\ You should brake in a way that will keep your vehicle in a straight line and allow you to turn if it becomes necessary. You can use the "controlled braking" method or the "stab braking" method.
+
+Q\\ The driver must be able to see a warning that is given before air pressure in the service air tanks falls below:
+O\\ 20 psi
+O\\ 40 psi
+O\\ 60 psi
+A\\ 60 psi
+E\\ Low air warning devices (buzzer, light, flag) should activate before air pressure drops below 60 psi or level specified by the manufacturer.
+
+Q\\ The most common type of foundation brakes found on heavy vehicles is the:
+O\\ Disc brakes
+O\\ Wedge drum
+O\\ S-cam brake
+A\\ S-cam brake
+E\\ Wedge brakes and disc brakes are less common than s-cam brakes.
+
+Q\\ When driving down a long steep hill you should:
+O\\ Release the brake when you are 5 mph below your "safe" speed.
+O\\ Use stab braking.
+O\\ Begin braking when you are 10 mph above your safe speed.
+A\\ Release the brake when you are 5 mph below your "safe" speed.
+E\\ Snub braking method is used for steep downhill grades, in this method apply the brakes just hard enough to feel a definite slowdown. When your speed has been reduced to approximately five mph below your "safe" speed, release the brakes. When your speed has increased to your "safe" speed, repeat.
+
+Q\\ The modulating control valve is?
+O\\ A spring-loaded valve that will let you put on the brakes on slowly if the service brakes fail.
+O\\ There is no such thing.
+O\\ Should not be used because it is very unsafe.
+A\\ A spring-loaded valve that will let you put on the brakes on slowly if the service brakes fail.
+E\\ In some vehicles, a control handle on the dash board may be used to apply the spring brakes gradually. This is called a modulating valve. It is spring loaded, so you have a feel for the braking action. The more you move the control lever, the harder the spring brakes come on. They work this way, so you can control the spring brakes if the service brakes fail.
+
+Q\\ Which of the following will be true about your brake function if your antilock braking system (ABS) fails?
+O\\ You will still have normal brake function and will just need to get the ABS repaired soon.
+O\\ It may cause problems with other mechanical systems and possibly pose a huge fire risk.
+O\\ It will slow your truck to a halt and force you to pull over.
+O\\ You will have no brake function and your truck will be out of control.
+A\\ You will still have normal brake function and will just need to get the ABS repaired soon.
+E\\ Without ABS you still have normal brake functions. Drive and brake as you always have.
+
+Q\\ Which of the following is not part of the braking process when you're driving a tractor-trailer combination vehicle with an antilock braking system (ABS)?
+O\\ Brake the same way no matter what you're driving: a vehicle with ABS, a vehicle with a trailer, or something else.
+O\\ When you slow down, you should monitor your tractor and trailer and ease off the brakes to keep control.
+O\\ You should use only the braking necessary to stay safely in control.
+O\\ You should drive faster so that you will be able to keep the trailer and tractor straight.
+A\\ You should drive faster so that you will be able to keep the trailer and tractor straight.
+E\\ When you drive a vehicle with ABS, you should brake as you always have. In other words: use only the braking force necessary to stop safely and stay in control; brake the same way regardless of whether you have ABS on the bus, tractor, the trailer, or both; as you slow down monitor your tractor and trailer and back off the brakes if it is safe to do so to stay in control.
+
+Q\\ Which of the following are true about a dual air brake system?
+O\\ Usually, one system operates the front axle and the other one operates the rear axle.
+O\\ It uses a single set of brake controls.
+O\\ One system is called the "primary" system and the other one is called the "secondary" system.
+O\\ All of the above are true.
+A\\ All of the above are true.
+E\\ Most heavy-duty vehicles use dual air brake systems for safety. A dual air brake system has two separate air brake systems, which use a single set of brake controls. One system or primary system typically operates the regular brakes on the rear axle or axles. The other or secondary system operates the regular brakes on the front axle and possibly one rear axle.
+
+Q\\ How can you tell if your vehicle is equipped with an antilock braking system (ABS)?
+O\\ Check if the vehicle was manufactured after 2000.
+O\\ Check if the vehicle was manufactured after 2010.
+O\\ ABS is still optional.
+O\\ Check if the vehicle was manufactured after 1998.
+A\\ Check if the vehicle was manufactured after 1998.
+E\\ The Department of Transportation requires that ABS be on: air brake vehicles built on or after March 1, 1998.
+
+Q\\ Spring brakes are
+O\\ brakes that come on automatically on a truck or tractor when the psi drops too low.
+O\\ made up of powerful springs that are held back by air pressure while you are driving.
+O\\ not going to take full effect until your psi drops to a certain range, typically 20 to 30 psi.
+O\\ all of the above.
+A\\ all of the above.
+E\\ Spring brakes are an important backup system: powerful springs that automatically apply the brakes if they sense that air pressure has been lost for some reason, such as a leak. They will also apply the brakes if the psi gets too low, although ideally, you should take control of your brakes before that happens.
+
+Q\\ In the event of a brake system failure, the emergency brake system uses __________ to stop the vehicle.
+O\\ only the parking brakes
+O\\ parts of the service brakes and parking brakes
+O\\ only the service brakes
+A\\ parts of the service brakes and parking brakes
+E\\ The emergency brake system uses parts of the service and parking brake systems to stop the vehicle in a brake system failure.
+
+Q\\ Repeatedly pressing and releasing (fanning) the brake pedal may result in
+O\\ a loss of brake air pressure.
+O\\ a buildup of brake air pressure.
+O\\ no change in brake air pressure.
+A\\ a loss of brake air pressure.
+E\\ Each time you release the brakes, some compressed air leaves the system and must be replenished by the air compressor. If you keep pressing and releasing the brake pedal, air may leave the system faster than the air compressor can replenish it, and the air pressure may drop to the point that the brakes won't work.
+
+Q\\ If the spring brakes are on, when should you push the brake pedal?
+O\\ Only when driving downhill
+O\\ Never
+O\\ Only on a slippery road
+A\\ Never
+E\\ Never push the brake pedal down when the spring brakes are on. If you do, the brakes could be damaged by the combined forces of the springs and the air pressure.
+
+Q\\ You'll know that your brakes are fading if
+O\\ the brake feels spongy when you apply pressure.
+O\\ you release the brake pedal and your speed increases.
+O\\ you have to press the brake pedal harder than usual to control your speed.
+A\\ you have to press the brake pedal harder than usual to control your speed.
+E\\ As the overheated drums expand, the brake shoes and linings have to move farther to contact the drums, and the force of this contact is reduced. So, you will be pressing harder on the pedal.
+
+Q\\ A converter dolly with antilock brakes (ABS) is required to have
+O\\ a yellow lamp on the left side.
+O\\ a white lamp on the left side.
+O\\ a white lamp on the right side.
+A\\ a yellow lamp on the left side.
+E\\ Converter dollies built on or after March 1, 1998, are required to have antilock brakes. These dollies will have a yellow lamp on the left side of the dolly.
+
+Q\\ Which of the following is the most important thing about hard braking?
+O\\ Disconnecting the steering axle brakes will help keep your vehicle in a straight-line during emergency braking.
+O\\ Don't lock the wheels for longer than an instant.
+O\\ Never do it without downshifting first.
+A\\ Don't lock the wheels for longer than an instant.
+E\\ Emergency braking does not mean pushing down on the brake pedal as hard as you can. That will only keep the wheels locked up and cause a skid. If the wheels are skidding, you cannot control the vehicle.
+
+Q\\ In controlled braking, you
+O\\ lock the wheels for short periods of time.
+O\\ can turn sharply.
+O\\ brake in a straight line.
+A\\ brake in a straight line.
+E\\ You apply the brakes as hard as you can without locking the wheels. Keep steering wheel movements very small while doing this. If you need to make a larger steering adjustment or if the wheels lock, release the brakes. Re-apply the brakes as soon as you can.
+
+Q\\ If oil and water collects in the air tanks, what could happen to the brakes?
+O\\ The brakes could heat up.
+O\\ The brakes could lock up.
+O\\ The brakes could fail.
+A\\ The brakes could fail.
+E\\ Compressed air usually has some water and some compressor oil in it, which is bad for the air brake system. For example, the water can freeze in cold weather and cause brake failure.
+
+Q\\ S-cam drum brakes have an S-cam in each brake chamber. Why is it called an "S-cam?"
+O\\ It is shaped like the letter "S."
+O\\ It makes the brake shoes move in an S-shaped path.
+O\\ It is constantly spinning whenever the wheel is spinning.
+A\\ It is shaped like the letter "S."
+E\\ The S-cam is S-shaped. The s-cam forces the brake shoes away from one another and presses them against the inside of the brake drum.
+
+Q\\ To test the air service brakes,
+O\\ stop the vehicle, put it in low gear, depress the brake pedal, and then gently pull against the brakes.
+O\\ brake firmly while slowly moving forward.
+O\\ brake firmly while slowly moving backward.
+A\\ brake firmly while slowly moving forward.
+E\\ Pull forward at 5 mph, apply the service brake and stop. Check to see that the vehicle does not pull to either side and that it stops when brake is applied.
+
+Q\\ When can you leave your truck unattended without first applying the parking brakes or chocking the wheels?
+O\\ Never
+O\\ If you will only be away from the truck for a few minutes
+O\\ If you will be conducting your pre-trip inspection
+A\\ Never
+E\\ Never leave your vehicle unattended without applying the parking brakes or chocking the wheels. Your vehicle might roll away and cause injury and damage.
+
+Q\\ If your truck or bus has dual parking control valves it means that you can use pressure from a separate tank to:
+O\\ Release the spring brakes to move a short distance.
+O\\ Apply more brake pressure if the main tank is getting low.
+O\\ Stay parked without using up service air pressure.
+A\\ Release the spring brakes to move a short distance.
+E\\ When main air pressure is lost, the spring brakes come on. Some vehicles have a separate air tank which can be used to release the spring brakes. This is so you can move the vehicle in an emergency.
+
+Q\\ The brake pads should be _____ for the brakes to be on?
+O\\ Worn 1/32 of an inch.
+O\\ Against the drum.
+O\\ Disconnected from the slack adjusters.
+O\\ Worn dangerously thin.
+A\\ Against the drum.
+E\\ To stop, the brake shoes and linings are pushed against the inside of the drum. This causes friction, which slows the vehicle.
+
+Q\\ You should know that your brakes are fading when:
+O\\ You must push harder on the brake pedal to control your speed on a downgrade.
+O\\ The brake feels spongy when pressure is applied.
+O\\ Pressure on the brake pedal is released and speed increases.
+A\\ You must push harder on the brake pedal to control your speed on a downgrade.
+E\\ Increasing application pressure to hold the same speed means the brakes are fading.
+
+Q\\ The application pressure gauge shows the driver how much pressure:
+O\\ Has been used on the trip.
+O\\ Is in the air tanks.
+O\\ Is being applied to the brakes.
+A\\ Is being applied to the brakes.
+E\\ Application Pressure Gauge shows how much air pressure you are applying to the brakes.
+
+Q\\ If the air compressor should develop a leak, what keeps the air in the tanks?
+O\\ The tractor protection valve
+O\\ The emergency relay valve
+O\\ The one-way check valve
+A\\ The one-way check valve
+E\\ Installed on the compressor side of the air tank is a one-way check valve, it allows air into the tanks, but does not allow it to flow back to the compressor.
+
+Q\\ Why drain water from the compressed air tanks?
+O\\ The low boiling point of water reduces braking power.
+O\\ Water can freeze in cold weather and cause brake failure.
+O\\ Water over cools the compressor.
+A\\ Water can freeze in cold weather and cause brake failure.
+E\\ Compressed air usually has some water and some compressor oil in it, which is bad for the air brake system, the water can freeze in cold weather and cause brake failure. The water and oil tend to collect in the bottom of the air tank. Be sure that you drain the air tanks completely.
+
+Q\\ Brake drums must not have cracks longer than _____ the width of the friction area?
+O\\ 1/8
+O\\ 1/4
+O\\ 1/2
+A\\ 1/2
+E\\ Brake drums or discs must not have cracks longer than one half the width of the friction area.
+
+Q\\ After the initial drop, the maximum acceptable leakage rates per minute are
+O\\ 5 psi for single vehicles and 6 psi for combination vehicles.
+O\\ 5 psi for single vehicles and 10 psi for combination vehicles.
+O\\ 3 psi for single vehicles and 4 psi for combination vehicles.
+O\\ 1 psi for single vehicles and 3 psi for combination vehicles.
+A\\ 3 psi for single vehicles and 4 psi for combination vehicles.
+E\\ With a fully-charged air system typically 125 psi, turn off the engine, release the parking brake; and time the air pressure drop. The loss rate should be less than two psi in one minute for single vehicles brakes released and three with the brakes applied, and less than three psi in one minute for combination vehicles with the brakes released and four with the brakes applied.
+
+Q\\ How do brakes work on a long, steep downgrade?
+O\\ They work as a supplement to the braking effect of your engine.
+O\\ Not applicable; no braking effect is involved in a downgrade.
+O\\ They work as the main braking mechanism.
+O\\ They work as the main braking mechanism with the engine braking effect as an emergency backup.
+A\\ They work as a supplement to the braking effect of your engine.
+E\\ The use of brakes on a long and/or steep downgrade is only a supplement to the braking effect of the engine.
+
+Q\\ How would you check your truck's slack adjusters?
+O\\ Accelerate, then brake hard.
+O\\ Use gloves and pull hard on each slack adjuster you can reach.
+O\\ Press the brake pedal while listening for any strange noises.
+O\\ All of the above will work.
+A\\ Use gloves and pull hard on each slack adjuster you can reach.
+E\\ Use gloves and pull hard on each slack adjuster that you can reach. If a slack adjuster moves more than about one inch where the push rod attaches to it, it probably needs adjustment.
+
+Q\\ The parking brake control
+O\\ applies the brakes during normal driving.
+O\\ lets the air out of the brake chambers.
+O\\ applies the brakes in the event of an emergency.
+A\\ lets the air out of the brake chambers.
+E\\ A parking brake control in the cab allows the driver to let the air out of the spring brakes. This lets the springs put the brakes on.
+
+Q\\ If the low air pressure warning signal is not working,
+O\\ it may lead to sudden emergency braking in a single-circuit air system.
+O\\ you may lose air pressure, but at least you'll know about it anyway.
+O\\ neither of the above will happen.
+A\\ it may lead to sudden emergency braking in a single-circuit air system.
+E\\ If the warning signal doesn't work, you could lose air pressure and you would not know it. This could cause sudden emergency braking in a single-circuit air system. In dual systems the stopping distance will be increased. Only limited braking can be done before the spring brakes come on.
+
+Q\\ Your vehicle has a dual air brake system. One of the systems loses air pressure. What will happen?
+O\\ The manual slack adjusters will not be set properly.
+O\\ The emergency brakes will come on immediately.
+O\\ Either the front or rear brakes will not be fully operational.
+A\\ Either the front or rear brakes will not be fully operational.
+E\\ A dual air brake system has two separate air brake systems, which use a single set of brake controls. Each system has its own air tanks, hoses, lines, etc. One system typically operates the regular brakes on the rear axle or axles. The other system operates the regular brakes on the front axle and possibly one rear axle.
+
+Q\\ Under ideal conditions, the average driver of a truck or bus equipped with air brakes and traveling at 55 mph would require what stopping distance?
+O\\ 300 to 350 feet
+O\\ More than 400 feet
+O\\ 100 to 250 feet
+A\\ More than 400 feet
+E\\ The total minimum distance your vehicle has traveled, in ideal conditions; with everything considered, including perception distance, reaction distance and braking distance, until you can bring your vehicle to a complete stop. At 55 mph, your vehicle will travel about 450 feet.
+
+Q\\ Modern air brake systems are three different systems combined: the service brakes, parking brakes, and _______ brakes.
+O\\ S-cam
+O\\ emergency
+O\\ foot
+A\\ emergency
+E\\ Air brakes are really three different braking systems: service brake, parking brake, and emergency brake.
+
+Q\\ To check the free play of manual slack adjusters on S-cam brakes you should:
+O\\ Stop on level ground and apply the parking brakes.
+O\\ Park on level ground, chock the wheels, and release the parking brakes.
+O\\ Park on level ground and drain off air pressure before adjusting.
+A\\ Park on level ground, chock the wheels, and release the parking brakes.
+E\\ For manual slack adjustors, the brake pushrod should not move more than one inch, with the brakes released, when pulled by hand.
+
+Q\\ Your truck or bus has a dual air brake system. If a low air pressure warning comes on for only one system, what should you do?
+O\\ Reduce your speed and drive to the nearest garage for repairs.
+O\\ Continue at normal speed and find a garage before the brakes lock.
+O\\ Stop. Safely park and continue only after the system is fixed.
+A\\ Stop. Safely park and continue only after the system is fixed.
+E\\ The warning light and buzzer should come on before the air pressure drops below 60 psi in either system. If this happens while driving, you should stop right away and safely park the vehicle. If one air system is very low on pressure, either the front or the rear brakes will not be operating fully. This means it will take you longer to stop. Bring the vehicle to a safe stop and have the air brakes system fixed.
+
+Q\\ If your vehicle has an alcohol evaporator, every day during cold weather you should:
+O\\ Check and fill the alcohol level.
+O\\ Change the alcohol from a new bottle.
+O\\ Clean the air filter with alcohol
+A\\ Check and fill the alcohol level.
+E\\ Check the alcohol container and fill up as necessary, every day during cold weather.
+
+Q\\ With S-cam drum brakes, when the brake chamber fills with air, air pressure pushes the push rod out, moving the ________ and thus rotating the ________.
+O\\ slack adjuster; brake camshaft
+O\\ slack adjuster; tie rod
+O\\ brake camshaft; tie rod
+A\\ slack adjuster; brake camshaft
+E\\ In S-cam brakes when you push the brake pedal, air is let into each brake chamber. Air pressure pushes the rod out, moving the slack adjuster, thus twisting the brake camshaft. This turns the s-cam. The s-cam forces the brake shoes away from one another and presses them against the inside of the brake drum.
+
+Q\\ In which of the following situations should you NOT apply the parking brakes?
+O\\ When you are testing whether they will hold the vehicle
+O\\ If the brakes are very hot
+O\\ If you're parking for less than one hour
+A\\ If the brakes are very hot
+E\\ Don't use the parking brakes if the brakes are very hot (from just having come down a steep grade), or if the brakes are very wet in freezing temperatures. If they are used while they are very hot, they can be damaged by the heat. If they are used in freezing temperatures when the brakes are very wet, they can freeze so the vehicle cannot move. Use wheel chocks instead.
+
+Q\\ Which of the following can cause brakes to fail or fade?
+O\\ Overheating, low air pressure, and not relying on the engine braking effect
+O\\ Not taking your foot off the accelerator
+O\\ Not pressing the brake pedal hard enough
+A\\ Overheating, low air pressure, and not relying on the engine braking effect
+E\\ Brakes can fade or fail from excessive heat caused by using them too much and not relying on the engine braking effect, they are also affected by adjustment, and low air pressure.
+
+Q\\ If you need to stop quickly and your vehicle lacks antilock brakes, you can use
+O\\ the "controlled braking" method.
+O\\ the "stab braking" method.
+O\\ either of the above.
+A\\ either of the above.
+E\\ You should brake in a way that will keep your vehicle in a straight line and allow you to turn if it becomes necessary. You can use the "controlled braking" method or the "stab braking" method.
+
+Q\\ Tractor and straight truck spring brakes will come fully on when the air pressure drops to a range of
+O\\ 60 to 80 psi.
+O\\ 20 to 45 psi.
+O\\ 10 to 15 psi.
+A\\ 20 to 45 psi.
+E\\ Tractor and straight truck spring brakes will come fully on when air pressure drops to a range of 20 to 45 psi (typically 20 to 30 psi).
+
+Q\\ The modulating control valve allows you to control the
+O\\ amount of pressure in the brake system.
+O\\ front brakes.
+O\\ spring brakes.
+A\\ spring brakes.
+E\\ In some vehicles a control handle on the dash board may be used to apply the spring brakes gradually. This is called a modulating valve. It is spring-loaded, so you have a feel for the braking action. The more you move the control lever, the harder the spring brakes come on.
+
+Q\\ Air loss in a straight truck or bus should not be more than _____ with the engine off and the brakes applied.
+O\\ 1 psi in 30 seconds
+O\\ 1 psi in one minute
+O\\ 3 psi in one minute
+A\\ 3 psi in one minute
+E\\ With a fully-charged air system, turn off the engine, release the parking brake, and time the air pressure drop. The loss rate should be less than two psi in one minute for single vehicle brakes released, and three with the brakes applied.
+
+Q\\ What activates the stop switch?
+O\\ Air pressure.
+O\\ Electrical.
+O\\ Mechanical force.
+A\\ Air pressure.
+E\\ Drivers behind you must be warned when you put your brakes on. The air brake system does this with an electric switch that works by air pressure. The switch turns on the brake lights when you put on the air brakes.
+
+Q\\ A straight truck or bus air brake system should not leak at a rate of more than ____ psi per minute with the engine off and the brakes released.
+O\\ 1
+O\\ 2
+O\\ 3
+A\\ 2
+E\\ With a fully-charged air system, turn off the engine, release the parking brake, and time the air pressure drop. The loss rate should be less than two psi in one minute for single vehicle brakes released, and three with the brakes applied.
+
+Q\\ Vehicles with air brakes must have:
+O\\ At least two air tanks.
+O\\ An air pressure gauge to show the pressure available for braking.
+O\\ An air pressure gauge to show air used by the brake chambers for braking.
+A\\ An air pressure gauge to show the pressure available for braking.
+E\\ All vehicles with air brakes have a pressure gauge connected to the air tank. If the vehicle has a dual air brake system, there will be a gauge for each half of the system.
+
+Q\\ Slack adjusters should not have any more than _____ of play?
+O\\ 1/2 inch
+O\\ 1 inch
+O\\ 1-1/2 inches
+A\\ 1 inch
+E\\ Park on level ground and chock the wheels to prevent the vehicle from moving, release the parking brakes so you can move the slack adjusters, using gloves and pull hard on each slack adjuster that you can reach, and if a slack adjuster moves more than about one inch where the push rod attaches to it then adjustments are needed.
+
+Q\\ What is the best way to test your vehicle's low air pressure warning signal?
+O\\ With the engine off, step on and off the brake pedal to lower the air pressure below 60 psi.
+O\\ Pump the brakes while your vehicle is fully on.
+O\\ Pump the brakes until the air pressure drops below 30 psi.
+O\\ Manually let the air out of your brakes and see if the signal comes on.
+A\\ With the engine off, step on and off the brake pedal to lower the air pressure below 60 psi.
+E\\ Shut the engine off when you have enough air pressure so that the low-pressure warning signal is not on. Turn the electrical power on and step on and off the brake pedal to reduce air tank pressure. The low air pressure warning signal must come on before the pressure drops to less than 60 psi in the air tank.
+
+Q\\ Which vehicles must have low air pressure warning signals?
+O\\ Vehicles built after 2005 must have low air pressure warning signals.
+O\\ All vehicles with air brakes currently in operation must have low air pressure warning signals.
+O\\ Vehicles built after 2010 must have low air pressure warning signals.
+O\\ None; low air pressure warning signals are optional.
+A\\ All vehicles with air brakes currently in operation must have low air pressure warning signals. EXPLANATION:A low air pressure warning signal is required on vehicles with air brakes.
+E\\ "need to find the text that goes here"
+
+Q\\ On a long or steep downgrade, once you have reached your "safe" speed, brake until you are traveling
+O\\ 5 mph slower.
+O\\ 15 mph slower.
+O\\ 10 mph slower.
+A\\ 5 mph slower.
+E\\ Snub braking method is used for steep downhill grades, in this method apply the brakes just hard enough to feel a definite slowdown. When your speed has been reduced to approximately five mph below your "safe" speed, release the brakes. When your speed has increased to your "safe" speed, repeat.
+
+Q\\ To check the slack adjusters on S-cam drum brakes, you should first
+O\\ stop on level ground and apply the parking brakes.
+O\\ park on level ground and drain off the air pressure.
+O\\ park on level ground, chock the wheels, and release the parking brakes.
+A\\ park on level ground, chock the wheels, and release the parking brakes.
+E\\ To check slack adjusters on S-cam Brakes. Park on level ground and chock the wheels to prevent the vehicle from moving and apply the parking brake.
+
+Q\\ Before starting down a hill, you should be in the proper gear
+O\\ so you can coast downhill.
+O\\ so you only have to apply the brake just hard enough to feel a definite slowdown.
+O\\ so you can go through the gears on the way down.
+A\\ so you only have to apply the brake just hard enough to feel a definite slowdown.
+E\\ The use of brakes on a long and/or steep downgrade is only a supplement to the braking effect of the engine. Once the vehicle is in the proper low gear you should only have to apply the brakes just hard enough to feel a definite slowdown.
+
+Q\\ To apply the parking brakes under normal conditions,
+O\\ be sure the air brake system is fully pressurized.
+O\\ let the air out of the brake chambers.
+O\\ turn off the engine.
+A\\ let the air out of the brake chambers.
+E\\ A parking brake control in the cab allows the driver to let the air out of the spring brakes. This lets the springs put the brakes on.
+
+Q\\ Slack adjusters are
+O\\ between the power screw and push rod on disc brakes.
+O\\ a part of the air brake system that is used to adjust the brakes.
+O\\ between the push rod and S-cam on drum brakes.
+O\\ all of the above.
+A\\ all of the above.
+E\\ Slack adjusters are an important part of your air brake system that allows you to adjust the brakes to ensure that they are safe. They are located in different places, depending on the type of brakes that you have.
+
+Q\\ Which of the following is NOT part of the air brake system?
+O\\ Service brake system
+O\\ Parking brake system
+O\\ Emergency brake system
+O\\ Radio signal system
+A\\ Radio signal system
+E\\ Air brakes are really three different braking systems: service brake, parking brake, and emergency brake.
+
+Q\\ Air braking takes more time than hydraulic braking because air brakes:
+O\\ Use different brake drums.
+O\\ Need to have airflow through the lines to work.
+O\\ Require heavier return springs.
+A\\ Need to have airflow through the lines to work.
+E\\ With air brakes there is an added delay called Brake Lag. This is the time required for the brakes to work after the brake pedal is pushed.
+
+Q\\ In air brake vehicles, the parking brakes should be used:
+O\\ Whenever the vehicle is parked.
+O\\ To hold your speed when going downhill.
+O\\ Only during pre and post trip inspections.
+A\\ Whenever the vehicle is parked.
+E\\ Any time you park use the parking brakes. Pull the parking brake control knob out to apply the parking brakes, push it in to release.
+
+Q\\ The brake pedal in an air brake system:
+O\\ Controls the speed of the air compressor.
+O\\ Is to be used as a footrest during normal driving.
+O\\ Controls the air pressure applied to the brakes.
+A\\ Controls the air pressure applied to the brakes.
+E\\ You put on the brakes by pushing down the brake pedal. Pushing the pedal down harder applies more air pressure. Letting up on the brake pedal reduces the air pressure and releases the brakes.
+
+Q\\ Your vehicle has a dual air brake system, if a low air pressure warning comes on for the secondary system, you should?
+O\\ Stop, safely park, and continue only when the system is fixed.
+O\\ Reduce your speed and test the remaining system while underway.
+O\\ Reduce your speed and drive to the nearest garage for repairs.
+A\\ Stop, safely park, and continue only when the system is fixed.
+E\\ Even if the low-pressure alarm is for the secondary system you need to stop at a safe location, park, and get the issue fixed. It is unsafe for the vehicle to remain in motion with a low air alarm.
+
+Q\\ The tractor protection valve
+O\\ will close automatically if the air supply drops to a certain level.
+O\\ will close if you apply the parking brakes.
+O\\ provides the air supply for the brake system.
+O\\ does all of the above.
+A\\ does all of the above.
+E\\ The tractor protection valve keeps air in the tractor or truck brake system should the trailer break away or develop a bad leak, and it will close automatically if air pressure is low (typically 20-45 psi).
+
+Q\\ What is the first thing you should do if the low air pressure warning comes on?
+O\\ Stop.
+O\\ Upshift.
+O\\ Downshift.
+A\\ Stop.
+E\\ If the low air pressure warning comes on, stop and safely park your vehicle as soon as possible.
+
+Q\\ When should you use the parking brake?
+O\\ Only if you are away from your vehicle for an extended period of time
+O\\ Every time you leave your vehicle, with a few exceptions
+O\\ Only in urban areas where there are many other vehicles
+O\\ Every time you leave your vehicle for any length of time
+A\\ Every time you leave your vehicle, with a few exceptions
+E\\ Never leave your vehicle unattended without applying the parking brakes or chocking the wheels. Your vehicle might roll away and cause injury and damage. Exceptions are when the brakes are very hot, or wet and it is very cold outside. In this case use wheel chocks.
+
+Q\\ The supply pressure gauge shows the driver how much pressure:
+O\\ Has been used in this trip.
+O\\ Is in the air tanks.
+O\\ Is being sent to the brake chambers.
+A\\ Is in the air tanks.
+E\\ All vehicles with air brakes have a pressure gauge connected to the air tank, and it tells you how much pressure is in the air tanks.
+
+Q\\ Which of the following is NOT part of the drum brake?
+O\\ Slack adjuster
+O\\ Brake drum
+O\\ Return spring
+O\\ Safety valve
+A\\ Safety valve
+E\\ Drum brakes are on each of your vehicle's axles and contain about 10 different parts, including the axle, slack adjuster, and brake drum itself. While a safety valve is part of the air brake system, it is not part of the drum brake.
+
+Q\\ The safety release valve will blow at _____ psi?
+O\\ 120
+O\\ 150
+O\\ 160
+A\\ 150
+E\\ A safety relief valve is installed in the first tank the air compressor pumps air to. The safety valve protects the tank and the rest of the system from too much pressure. The valve is usually set to open at 150 psi. If the safety valve releases air, something is wrong. Have the fault fixed by a mechanic.
+
+Q\\ In an emergency stop you should?
+O\\ Use the hand valve and service brakes.
+O\\ Use the stab braking method
+O\\ Use the brakes hard without locking the wheels.
+A\\ Use the stab braking method
+E\\ Stab braking means that you: apply your brakes all the way, and release brakes when wheels lock up. As soon as the wheels start rolling, apply the brakes fully again.
+
+Q\\ What are spring brakes?
+O\\ If the air brakes leak down, springs apply the brakes to stop the vehicle.
+O\\ They are the CamLaster brakes.
+O\\ They are the springs on the brake pedal.
+A\\ If the air brakes leak down, springs apply the brakes to stop the vehicle.
+E\\ When driving, powerful springs are held back by air pressure. If the air pressure is removed, the springs put on the brakes. A leak in the air brake system, which causes all the air to be lost, will also cause the springs to put on the brakes.

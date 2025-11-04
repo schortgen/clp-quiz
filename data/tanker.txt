@@ -1,0 +1,139 @@
+Q\ What is "sloshing" in a tanker?
+O\ The sound the liquid makes
+O\ The movement of liquid in a partially filled tank
+O\ A type of leak
+A\ The movement of liquid in a partially filled tank
+E\ Sloshing, or surge, is the wave-like motion of liquid that can push the truck and affect handling.
+
+Q\ How does sloshing affect the handling of a tanker?
+O\ It can push the truck forward or sideways
+O\ It improves traction
+O\ It has no effect
+A\ It can push the truck forward or sideways
+E\ The force of the moving liquid can be strong enough to affect braking, accelerating, and turning.
+
+Q\ What is an "outage" in a tanker?
+O\ A power failure in the truck
+O\ The empty space left in a tank to allow for liquid expansion
+O\ A leak from the top of the tank
+A\ The empty space left in a tank to allow for liquid expansion
+E\ Liquids expand when they get warm. Leaving room for this expansion (outage) prevents ruptures and spills.
+
+Q\ What is the purpose of baffles in a tanker?
+O\ To separate different types of liquid
+O\ To reduce the sloshing of the liquid
+O\ To strengthen the tank
+A\ To reduce the sloshing of the liquid
+E\ Baffles are dividers with holes in them inside the tank that slow down the back-and-forth motion of the liquid.
+
+Q\ A smooth bore tanker (one without baffles) is most likely to be used for:
+O\ Hauling milk or other food products
+O\ Hauling gasoline
+O\ Hauling water
+A\ Hauling milk or other food products
+E\ Smooth bore tanks are easier to clean and sanitize, which is a requirement for food-grade liquids.
+
+Q\ Which type of tanker has the biggest problem with surge?
+O\ A baffled tanker
+O\ A tanker with multiple compartments
+O\ A smooth bore tanker
+A\ A smooth bore tanker
+E\ With no baffles to slow the liquid down, the full force of the surge is felt by the driver.
+
+Q\ When driving a tanker, you should increase your following distance because:
+O\ The high center of gravity requires more stopping distance
+O\ Brake lag is longer in tankers
+O\ The surge effect can push you forward when you stop
+A\ The surge effect can push you forward when you stop
+E\ Even after you stop, the liquid can surge forward, pushing the truck into the vehicle in front of you.
+
+Q\ What is the biggest danger when driving a tanker through a curve?
+O\ Engine failure
+O\ Rollover
+O\ Brake fade
+A\ Rollover
+E\ Tankers have a high center of gravity, and the outward push of the liquid in a curve greatly increases the risk of a rollover.
+
+Q\ To prevent rolling over in a curve, you should:
+O\ Slow down to a safe speed before entering the curve
+O\ Brake hard while in the curve
+O\ Accelerate through the curve
+A\ Slow down to a safe speed before entering the curve
+E\ You must reduce your speed before the turn. Braking in the turn can cause a loss of traction.
+
+Q\ When loading a tanker with a single compartment, you should:
+O\ Fill it completely to the top
+O\ Keep it either very full or very empty
+O\ Fill it exactly half full
+A\ Keep it either very full or very empty
+E\ A partially filled tank allows for the most liquid movement (surge). Full or empty tanks are the most stable.
+
+Q\ What should you check during a pre-trip inspection of a tanker?
+O\ The tank for leaks
+O\ The valves and pipes
+O\ All of the above
+A\ All of the above
+E\ A tanker inspection includes all standard truck components plus a thorough check of the tank, vents, piping, and valves.
+
+Q\ When unloading a tanker, it is important to:
+O\ Have good ventilation
+O\ Ensure the emergency shut-off systems are working
+O\ Both of the above
+A\ Both of the above
+E\ Safety during loading and unloading is critical, especially with flammable or toxic liquids.
+
+Q\ A tanker endorsement is required on your CDL if you are hauling:
+O\ Any liquid in a tank
+O\ More than 119 gallons of liquid in a portable tank
+O\ A permanently attached tank with a capacity of 1,000 gallons or more
+A\ A permanently attached tank with a capacity of 1,000 gallons or more
+E\ The N endorsement is for vehicles with large, permanently attached tanks.
+
+Q\ How do you brake with a tanker?
+O\ Brake later and harder than with other trucks
+O\ Brake earlier and more gently than with other trucks
+O\ Pump the brakes
+A\ Brake earlier and more gently than with other trucks
+E\ Smooth, early braking helps control the surge and prevents the wheels from locking up.
+
+Q\ Bulkheads are:
+O\ Solid dividers inside a tank
+O\ Another name for baffles
+O\ The end caps of the tank
+A\ Solid dividers inside a tank
+E\ Bulkheads create separate, smaller tanks (compartments) within the main tank. They are solid and do not let liquid pass through.
+
+Q\ A tank with bulkheads will experience:
+O\ More surge than a smooth bore tank
+O\ Less surge than a baffled tank
+O\ Less surge than a smooth bore tank
+A\ Less surge than a smooth bore tank
+E\ Because the liquid is contained in smaller compartments, the surge is less pronounced.
+
+Q\ When accelerating a tanker, you should:
+O\ Accelerate quickly to get up to speed
+O\ Accelerate smoothly and gradually
+O\ It does not matter
+A\ Accelerate smoothly and gradually
+E\ Smooth acceleration prevents the liquid from surging to the back and causing handling problems.
+
+Q\ What is the purpose of a vapor recovery system?
+O\ To prevent liquid from spilling
+O\ To capture flammable vapors and prevent them from escaping into the air
+O\ To cool the liquid in the tank
+A\ To capture flammable vapors and prevent them from escaping into the air
+E\ This is an environmental and safety feature used when loading and unloading flammable liquids like gasoline.
+
+Q\ When pulling a tanker, you should be extra cautious when driving on:
+O\ Wet or icy roads
+O\ Steep hills
+O\ Both of the above
+A\ Both of the above
+E\ The high center of gravity and the effects of surge make tankers particularly challenging to handle in adverse conditions.
+
+Q\ The person in charge of loading and unloading a tanker is responsible for:
+O\ Knowing what the product is
+O\ Ensuring the valves are set correctly
+O\ Both of the above
+A\ Both of the above
+E\ Proper procedures must be followed to prevent spills, mixing of incompatible products, and other accidents.
